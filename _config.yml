@@ -23,14 +23,14 @@ repository               : "daasabogalro/daasabogalro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "personal_website_profile_photo_540_540.jpg"
+  name             : "Daniel Antonio Sabogal"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Colombia"
+  employer         : "Universidad Nacional de Colombia"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "daasabogalro@unal.edu.co"
 
   # Academic websites
   academia         : # URL
