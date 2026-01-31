@@ -1,7 +1,23 @@
 ---
-title: "daasabogalro.github.io"
+title: "Daniel Antonio Sabogal-Rodriguez"
+image: media/pic.jpg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/daasabogalro/
+    - icon: github
+      text: GitHub
+      href: https://github.com/daasabogalro
+    - icon: envelope
+      text: Email
+      href: mailto:daasabogalro@unal.edu.co
 ---
 
-This is a Quarto website.
+This is my new personal website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I should put a nice, flashy and cosmic descripcion here, right?
