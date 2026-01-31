@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Daniel Antonio Sabogal-Rodriguez"
+  title: "Daniel Sabogal-Rodriguez"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
@@ -13,8 +13,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - Flatly
     css: styles.css
     toc: true
 
